@@ -1,0 +1,153 @@
+{
+  "birthday": {
+    "name": "Thanushree",
+    "nickname": "Thanu",
+    "sibling_name": "Anu",
+    "age": 20,
+    "date": "24 October",
+    "sign_note": "a little magic soul",
+    "welcome": "Psst... someone very special turns 20 today 💌",
+    "headline_prefix": "HAPPY 20TH BIRTHDAY,",
+    "subtitle": "20 years of magic, mischief, smiles and memories",
+    "short_intro": "A tiny corner of the internet built from photos, songs, inside jokes and a ridiculous amount of love."
+  },
+  "sections": {
+    "photos": {
+      "kicker": "01 · The scrapbook",
+      "title": "Her Photo Universe",
+      "subtitle": "A few frames of the girl who makes ordinary days feel like a celebration."
+    },
+    "video": {
+      "kicker": "02 · The premiere",
+      "title": "The Birthday Film",
+      "subtitle": "A little film for a very big day. Headphones on, volume up, heart open."
+    },
+    "reasons": {
+      "kicker": "03 · The evidence",
+      "title": "20 Reasons We Love You",
+      "subtitle": "Twenty tiny truths. Tap each card to open it — like a birthday advent calendar, but with more feelings."
+    },
+    "letter": {
+      "kicker": "04 · Sealed with love",
+      "title": "A Letter From Your Sister",
+      "subtitle": "From Anu, with all her love."
+    },
+    "wishes": {
+      "kicker": "05 · The wish wall",
+      "title": "Birthday Wish Wall",
+      "subtitle": "A little constellation of voices from the people who adore you."
+    },
+    "finale": {
+      "kicker": "06 · The last page (for now)",
+      "title": "Grand Finale"
+    }
+  },
+  "photos": {
+    "folder": "assets/photos",
+    "spotlight": "her1.png",
+    "spotlight_label": "Spotlight memory",
+    "spotlight_caption": "The one we keep coming back to",
+    "spotlight_note": "Some photos don't just show a moment. They bring it all back.",
+    "fallback_captions": [
+      "Our little sunshine",
+      "The smile that lights up our home",
+      "Queen of our hearts",
+      "Chapter 20 begins",
+      "A day we still laugh about",
+      "Caught being completely herself",
+      "Our favourite kind of chaos",
+      "A memory worth framing twice"
+    ],
+    "captions": {
+      "her1.png": "Our little sunshine"
+    }
+  },
+  "video": {
+    "path": "assets/birthday_video.mp4",
+    "poster": "assets/video_poster.jpg",
+    "audio": "assets/birthday_audio.mp3",
+    "title": "Chapter 20: The Film",
+    "intro": "One very special birthday girl, a lot of love, and three minutes of pure celebration.",
+    "button_label": "Play the Video 🎬",
+    "missing_title": "The film is still warming up",
+    "missing_text": "Add your birthday video at assets/birthday_video.mp4 and this stage will come alive.",
+    "audio_label": "Prefer just the music? 🎵"
+  },
+  "reasons": [
+    "Your smile makes ordinary days special.",
+    "You make our home brighter just by walking in.",
+    "You will always be our little princess.",
+    "Your laugh is our favourite background music.",
+    "You fight with us and then defend us like a very expensive lawyer.",
+    "You give the best advice, even when nobody asked.",
+    "Your dance moves deserve their own stage.",
+    "You remember the tiny things no one else notices.",
+    "You turn boring evenings into full-on family drama.",
+    "Your kindness shows up quietly, exactly when it is needed.",
+    "You are the family's unofficial photographer and memory keeper.",
+    "You can find snacks in any cupboard, at any hour.",
+    "You make us laugh three seconds after making us furious.",
+    "You never let us give up on ourselves.",
+    "Your courage is louder than your fear.",
+    "You are proof that little sisters grow into best friends.",
+    "You make every celebration feel bigger.",
+    "You keep every promise that matters.",
+    "The world is softer because you are in it.",
+    "Because you are you — and that is more than enough."
+  ],
+  "letter": {
+    "envelope_note": "For your eyes only, Thanu",
+    "salutation": "My dearest Thanu,",
+    "paragraphs": [
+      "Somehow, you grew up while I was busy being your annoying sister. Now you are one of my favourite people in the world.",
+      "You make ordinary days brighter with your laugh, your kindness and your dramatic arguments. Life is never boring with you around.",
+      "This year, I hope you get everything your heart is quietly wishing for. And I hope you always remember that your sister is only one call away.",
+      "Happy 20th birthday, Thanu. I love you more than you know."
+    ],
+    "signoff": "With all my love,",
+    "signature": "Anu ♡"
+  },
+  "wishes": [
+    {
+      "from": "Amma",
+      "message": "May this year bring you the kind of happiness you are always giving everyone else."
+    },
+    {
+      "from": "Appa",
+      "message": "Keep dreaming loudly. We are always in your corner, no matter how big the dream."
+    },
+    {
+      "from": "Your favourite cousin",
+      "message": "Another year of us being absolutely ridiculous together. I cannot wait."
+    },
+    {
+      "from": "The childhood gang",
+      "message": "Same laughter, same nonsense, same unbreakable us. Happy 20th!"
+    },
+    {
+      "from": "Your best friend",
+      "message": "You deserve a year as warm, funny and beautiful as you are."
+    },
+    {
+      "from": "The family group chat",
+      "message": "Our favourite notification. Our loudest cheerleader. Our girl. Happy birthday!"
+    },
+    {
+      "from": "Everyone at home",
+      "message": "The house is already louder and happier because it is your birthday. Come home soon."
+    },
+    {
+      "from": "Your sister, Anu",
+      "message": "Twenty looks so good on you. But then again, you have always been my favourite person in every chapter."
+    }
+  ],
+  "finale": {
+    "kicker": "The last page is only the beginning",
+    "line_one": "THIS IS YOUR CHAPTER 20.",
+    "line_two": "MAKE IT UNFORGETTABLE.",
+    "closing": "You will always be our little girl.",
+    "closing_name": "Happy Birthday, Thanushree ❤️",
+    "replay_label": "Replay the surprise ↺"
+  },
+  "footer": "Made with love by Anu · Chapter 20"
+}
