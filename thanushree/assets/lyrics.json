@@ -1,0 +1,37 @@
+{
+  "title": "[SONG TITLE]",
+  "artist": "[ARTIST / MOVIE]",
+  "note": "Add only the lyric lines you have permission to share. Keep the original line breaks. Set a stanza's type to \"chorus\" to highlight it.",
+  "kannada": [
+    {
+      "type": "verse",
+      "lines": [
+        "[ಇಲ್ಲಿ ಹಾಡಿನ ಮೊದಲ ಸಾಲು ಸೇರಿಸಿ]",
+        "[ಇಲ್ಲಿ ಹಾಡಿನ ಎರಡನೇ ಸಾಲು ಸೇರಿಸಿ]"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "[ಇಲ್ಲಿ ಹಾಡಿನ ಚರಣದ ಮೊದಲ ಸಾಲು]",
+        "[ಇಲ್ಲಿ ಹಾಡಿನ ಚರಣದ ಎರಡನೇ ಸಾಲು]"
+      ]
+    }
+  ],
+  "transliteration": [
+    {
+      "type": "verse",
+      "lines": [
+        "[Add the first line in English transliteration]",
+        "[Add the second line in English transliteration]"
+      ]
+    },
+    {
+      "type": "chorus",
+      "lines": [
+        "[Add the chorus line in English transliteration]",
+        "[Add the second chorus line in English transliteration]"
+      ]
+    }
+  ]
+}

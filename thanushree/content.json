@@ -1,0 +1,208 @@
+{
+  "birthday": {
+    "name": "[Thanushree]",
+    "nickname": "[thanu]",
+    "sibling_name": "[Anu]",
+    "age": 20,
+    "date": "[24 October ]",
+    "sign_note": "a little  magic soul",
+    "welcome": "Psst... someone very special turns 20 today 💌",
+    "headline_prefix": "HAPPY 20TH BIRTHDAY,",
+    "subtitle": "20 years of magic, mischief, smiles and memories",
+    "short_intro": "A tiny corner of the internet built from photos, songs, inside jokes and a ridiculous amount of love."
+  },
+  "sections": {
+    "photos": {
+      "kicker": "01 · The scrapbook",
+      "title": "Her Photo Universe",
+      "subtitle": "Every frame holds a version of you we never want to forget. Tap through slowly — this is our favourite kind of time travel."
+    },
+    "video": {
+      "kicker": "02 · The premiere",
+      "title": "Her Birthday Music Video",
+      "subtitle": "A little film for a very big day. Headphones on, volume up, heart open."
+    },
+    "anthem": {
+      "kicker": "03 · The soundtrack",
+      "title": "The Birthday Anthem",
+      "subtitle": "A few lines from the song that feels like you — in Kannada, with transliteration for everyone singing along."
+    },
+    "reasons": {
+      "kicker": "04 · The evidence",
+      "title": "20 Reasons We Love You",
+      "subtitle": "Twenty tiny truths. Tap each card to open it — like a birthday advent calendar, but with more feelings."
+    },
+    "timeline": {
+      "kicker": "05 · The story so far",
+      "title": "Memory Lane",
+      "subtitle": "From the very first hello to the beginning of Chapter 20. The dates are ours to fill in; the feelings are already here."
+    },
+    "letter": {
+      "kicker": "06 · Sealed with love",
+      "title": "A Letter From Your Sibling",
+      "subtitle": "Some things are easier to write than to say. This is one of them."
+    },
+    "wishes": {
+      "kicker": "07 · The wish wall",
+      "title": "Birthday Wish Wall",
+      "subtitle": "A little constellation of voices from the people who adore you."
+    },
+    "finale": {
+      "kicker": "08 · The last page (for now)",
+      "title": "Grand Finale"
+    }
+  },
+  "photos": {
+    "folder": "assets/photos",
+    "spotlight": "her1.png",
+    "spotlight_label": "Spotlight memory",
+    "spotlight_caption": "The one we keep coming back to",
+    "spotlight_note": "Some photos don't just show a moment. They bring it all back.",
+    "fallback_captions": [
+      "Our little sunshine",
+      "The smile that lights up our home",
+      "Queen of our hearts",
+      "Chapter 20 begins",
+      "A day we still laugh about",
+      "Caught being completely herself",
+      "Our favourite kind of chaos",
+      "A memory worth framing twice"
+    ],
+    "captions": {
+      "her1.png": "Our little sunshine",
+      "her2.jpeg": "The smile that lights up our home",
+      "photo1.jpg": "Queen of our hearts",
+      "photo2.jpg": "Chapter 20 begins"
+    }
+  },
+  "video": {
+    "path": "assets/birthday_video.mp4",
+    "poster": "assets/video_poster.jpg",
+    "audio": "assets/birthday_audio.mp3",
+    "title": "The Birthday Anthem",
+    "intro": "Kannada hip-hop, sibling chaos and one very special birthday girl. This is Chapter 20, the film.",
+    "button_label": "Play Your Birthday Anthem 🎧",
+    "missing_title": "The anthem is still warming up",
+    "missing_text": "Add your birthday music video at assets/birthday_video.mp4 and this stage will come alive.",
+    "audio_label": "Prefer just the song? 🎵"
+  },
+  "anthem": {
+    "lyrics_file": "assets/lyrics.json",
+    "intro": "A few selected lines from her birthday song, held here like a favourite verse. The full lyrics live in assets/lyrics.json.",
+    "tabs": ["ಕನ್ನಡ · Kannada", "Transliteration"]
+  },
+  "reasons": [
+    "Your smile makes ordinary days special.",
+    "You make our home brighter just by walking in.",
+    "You will always be our little princess.",
+    "Your laugh is our favourite background music.",
+    "You fight with us and then defend us like a very expensive lawyer.",
+    "You give the best advice, even when nobody asked.",
+    "Your dance moves deserve their own stage.",
+    "You remember the tiny things no one else notices.",
+    "You turn boring evenings into full-on family drama.",
+    "Your kindness shows up quietly, exactly when it is needed.",
+    "You are the family's unofficial photographer and memory keeper.",
+    "You can find snacks in any cupboard, at any hour.",
+    "You make us laugh three seconds after making us furious.",
+    "You never let us give up on ourselves.",
+    "Your courage is louder than your fear.",
+    "You are proof that little sisters grow into best friends.",
+    "You make every celebration feel bigger.",
+    "You keep every promise that matters.",
+    "The world is softer because you are in it.",
+    "Because you are you — and that is more than enough."
+  ],
+  "timeline": [
+    {
+      "date": "[YEAR]",
+      "title": "The day the universe got brighter",
+      "text": "The very first hello. A tiny human with a very big future, and a family that had no idea how much fun was coming.",
+      "emoji": "🌙"
+    },
+    {
+      "date": "[YEAR]",
+      "title": "Childhood chaos, unlimited",
+      "text": "Scraped knees, secret snack raids, dramatic talent shows and a laugh that could be heard from the next street.",
+      "emoji": "🎈"
+    },
+    {
+      "date": "[YEAR]",
+      "title": "School days & little victories",
+      "text": "Uniforms, notebooks, last-minute projects and the quiet courage of growing into yourself one day at a time.",
+      "emoji": "📚"
+    },
+    {
+      "date": "[YEAR]",
+      "title": "A memory we still laugh about",
+      "text": "[ADD YOUR FAVOURITE MEMORY HERE — the sillier, the better.]",
+      "emoji": "📸"
+    },
+    {
+      "date": "2026",
+      "title": "Chapter 20 begins",
+      "text": "Twenty years of being loved, and somehow you are still just getting started. The next chapter is yours to write.",
+      "emoji": "✨"
+    }
+  ],
+  "one_more_memory": {
+    "title": "One more memory...",
+    "text": "The best part about our story is that it isn't finished. There are still road trips to take, songs to scream in the car, and memories we haven't made yet."
+  },
+  "letter": {
+    "envelope_note": "For your eyes only, [NICKNAME]",
+    "salutation": "My dearest [NICKNAME],",
+    "paragraphs": [
+      "Somewhere between the scraped knees and the late-night talks, you grew up. And somehow, you became one of the best parts of my life.",
+      "I still remember when following me around was your favourite hobby. Now I am the one taking notes on how bravely you live.",
+      "You have a way of making people feel seen. You laugh with your whole heart, love with your whole chest, and argue like a tiny Supreme Court judge.",
+      "[BIRTHDAY MESSAGE — add the words only the two of you would say here.]",
+      "This year, I hope you chase the things that light you up. I hope you are ridiculously proud of yourself. And I hope you always know that whatever chapter you are in, you have a sibling in your corner who thinks you hung the moon."
+    ],
+    "signoff": "Forever your biggest fan,",
+    "signature": "[YOUR NAME] ♡"
+  },
+  "wishes": [
+    {
+      "from": "Amma",
+      "message": "May this year bring you the kind of happiness you are always giving everyone else."
+    },
+    {
+      "from": "Appa",
+      "message": "Keep dreaming loudly. We are always in your corner, no matter how big the dream."
+    },
+    {
+      "from": "Your favourite cousin",
+      "message": "Another year of us being absolutely ridiculous together. I cannot wait."
+    },
+    {
+      "from": "The childhood gang",
+      "message": "Same laughter, same nonsense, same unbreakable us. Happy 20th!"
+    },
+    {
+      "from": "Your best friend",
+      "message": "You deserve a year as warm, funny and beautiful as you are."
+    },
+    {
+      "from": "The family group chat",
+      "message": "Our favourite notification. Our loudest cheerleader. Our girl. Happy birthday!"
+    },
+    {
+      "from": "Everyone at home",
+      "message": "The house is already louder and happier because it is your birthday. Come home soon."
+    },
+    {
+      "from": "Your sibling",
+      "message": "Twenty looks so good on you. But then again, you have always been our favourite person in every chapter."
+    }
+  ],
+  "finale": {
+    "kicker": "The last page is only the beginning",
+    "line_one": "THIS IS YOUR CHAPTER 20.",
+    "line_two": "MAKE IT UNFORGETTABLE.",
+    "closing": "You will always be our little girl.",
+    "closing_name": "Happy Birthday, [SISTER'S NAME] ❤️",
+    "replay_label": "Replay the surprise ↺"
+  },
+  "footer": "Made with love, late nights & a ridiculous amount of glitter · Chapter 20"
+}
